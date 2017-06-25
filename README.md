@@ -1,2 +1,5 @@
 # summer-of-roguelikedev-2017
-roguelike
+## Progress
+
+### Week 0
+![](img/Week0.png)
